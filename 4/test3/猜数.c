@@ -8,7 +8,7 @@ int main()
     for (i = 0; i < 6; i++) {
         printf("你还有%d次机会\n", 6 - i);
         printf("请在一百以内任取一个数字:");
-        scanf("%d", &n);
+        scanf_s("%d", &n);
         if (n == 54) {
             y++;
             printf("你成功拯救了宋大师的马马");
