@@ -1,0 +1,4 @@
+﻿  源.c
+C:\Codefield\c-code\my_strcpy\源.c(5,2): warning C4047: “!=”:“int”与“void *”的间接级别不同
+C:\Codefield\c-code\my_strcpy\源.c(6,2): warning C4047: “!=”:“int”与“void *”的间接级别不同
+  my_strcpy.vcxproj -> C:\Codefield\c-code\my_strcpy\x64\Debug\my_strcpy.exe
